@@ -13,6 +13,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -Git e Github <br>
 -API
 
-O Projeto Loja é uma loja online consumindo a API de Mercado Livre.
+O Projeto Loja é uma loja online consumindo a API do Mercado Livre.
 
 Projeto feito by Guilherme Nascimento Greca!
