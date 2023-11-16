@@ -4,9 +4,7 @@
   Projeto pessoal aplicando conhecimentos adquiridos para a atualização do meu portfolio.
 </p>
 
-<p align="center">
-  <img alt="Projeto Loja" src="./assets/Loja.jpg" width="100%">
-</p>
+![Loja](https://github.com/GuilhermeNGreca/projetoloja/assets/125670318/ed9fb56d-ac98-4d38-8ba6-dce38736761b)
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
