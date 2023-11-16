@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Projeto Loja" src="./frontend/src/assets/Loja.jpg" width="100%">
+  <img alt="Projeto Loja" src="./frontend/assets/Loja.jpg" width="100%">
 </p>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
