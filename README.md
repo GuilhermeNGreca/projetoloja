@@ -11,7 +11,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -HTML5 e CSS3 <br>
 -JavaScript <br>
 -Git e Github <br>
--API
+-API <br>
+-Entre outras...
 
 O Projeto Loja é uma loja online consumindo a API do Mercado Livre.
 
